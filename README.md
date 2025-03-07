@@ -1,7 +1,7 @@
 # 💫 About Me:
-👋 Hello everyone!<br>-> I’m Shah Kavya, a student at VGEC College pursuing a Bachelor's in Computer Engineering. <br>-> Currently, I’m diving into the world of web development 🌐, with a focus on JavaScript technology 💻.<br>-> I’m also super excited to explore the fascinating field of Artificial Intelligence 🤖 and look forward to expanding my knowledge in this area.<br><br>
-
-
+👋 Hello everyone!<br>-> I’m Shah Kavya, a student at VGEC College pursuing a Bachelor's in Computer Engineering. <br>-> Currently, I’m diving into the world of web development 🌐, with a focus on JavaScript technology 💻.<br>-> I’m also super excited to explore the fascinating field of Artificial Intelligence 🤖 and look forward to expanding my knowledge in this area.
+![n8agw6z2smyb1](https://github.com/user-attachments/assets/b90a3c3f-652a-4eb3-b2b4-b0fd58bbfeb6)
+<br><br>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavyashahhhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavyashahhhh) 
 
